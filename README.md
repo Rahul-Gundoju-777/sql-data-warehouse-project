@@ -36,3 +36,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## About Me
 
 Hi, I'm Rahul Gundoju, a graduate in Artificial Intelligence and Data Science. I'm excited to share my project on GitHub!
+<img width="1036" height="631" alt="Data_Architecture" src="https://github.com/user-attachments/assets/41793e2f-8d9d-4a2a-b440-77afa68b17e2" />
+
