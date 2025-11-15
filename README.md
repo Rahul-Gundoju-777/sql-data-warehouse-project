@@ -1,7 +1,8 @@
 # DATA WAREHOUSE AND ANALYTICS PROJECT
   
 Welcome to the **Data Warehouse and Analytics Project** repository!
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio projects. Highlights industry best practices in data engineering and analytics.
+This project demonstrates a complete end-to-end data warehouse workflow, starting from raw data ingestion and progressing through each stage of data processing. It highlights practical techniques commonly used in modern data engineering environments.
+
 
 ---
 
@@ -36,5 +37,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## About Me
 
 Hi, I'm Rahul Gundoju, a graduate in Artificial Intelligence and Data Science. I'm excited to share my project on GitHub!
-<img width="1036" height="631" alt="Data_Architecture" src="https://github.com/user-attachments/assets/41793e2f-8d9d-4a2a-b440-77afa68b17e2" />
-
