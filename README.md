@@ -105,6 +105,12 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me
-
-Hi, I'm Rahul Gundoju, a graduate in Artificial Intelligence and Data Science. I'm excited to share my project on GitHub!
+### 👩‍💻 About Me : 
+Hi there! I'm Rahul Gundoju  
+ - 🔍 Passionate about **Data Analysis, Business Insights, and Visualization**  
+ - 🎯 Actively seeking **Data Analyst opportunities**  
+ - 🛠  Skilled in **SQL, Python (Pandas/Numpy), Excel**  
+ - 🎓 Artificial Intelligence & Data Science Graduate
+ - 🔗 LinkedIn: www.linkedin.com/in/rahul-gundoju
+ - 📧 Email: rahulgundoju777@gmail.com
+ - 📍 Hyderabad, India  
